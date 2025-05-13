@@ -1,2 +1,2 @@
 # T8.1C
-Professioanl Practice credit task (Jenkins + Git)
+Professioanl Practice credit task (Jenkins + Git Update)
